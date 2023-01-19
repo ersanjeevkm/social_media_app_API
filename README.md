@@ -17,7 +17,9 @@ Next navigating to flask, you can start the endpoint using "flask run" command
 ## List of endpoints
 
 http://127.0.0.1:5000/messages - GET : Returns all messages (newest message first)
+
 http://127.0.0.1:5000/messages - POST : Create a new message
+
 http://127.0.0.1:5000/likes/<message_id> - POST : Add like to a message
 
 # APPENDIX
